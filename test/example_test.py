@@ -16,3 +16,5 @@ from app.example import to_usd
     
 def test_to_usd():
     assert to_usd(1) == "$1.00"
+
+
